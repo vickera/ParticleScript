@@ -1,6 +1,6 @@
 # ParticleScript
 Javascript plugin for creating a parallax and particle effect. 
-View the <a href="http://andrewvickerman.com/exp/ParticleScript.js">demo</a>. 
+View the <a href="http://andrewvickerman.com/exp/ParticleScript.html">demo</a>. 
 
 ##Usage:
 Create a new instance of ParticleScript
